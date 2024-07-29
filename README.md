@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 I’m currently working on my startup project.<br>🙊 These days I have become interested in artificial intelligence.<br>🤝 To improve myself, always moving forward.<br>🌱 I'm currently creating AI-supported defense mechanism.<br>👨🏻‍🎓 Just graduated from computer engineering department, master's degree in electrical and electronics.<br>💬 contact: halilbugday03@gmail.com<br>🤝 To improve myself, always moving forward.<br>⚡ Fun fact: I started coding with Pascal programming language :)<br><br>➡️ There are 1️⃣0️⃣ types of people:<br>those who know binary and those who do not!<br><br>➡️ Developing an algorithm > Writing code<br>
+🤓 I’m currently working on my startup project.<br>🙊 These days I have become interested in artificial intelligence.<br>🤝 To improve myself, always moving forward.<br>🌱 I'm currently creating AI-supported defense mechanism.<br>👨🏻‍🎓 Just graduated from computer engineering department, master's degree in electrical and electronics.<br>💬 contact: halilbugday03@gmail.com<br>🤝 To improve myself, always moving forward.<br>🍄 Fun fact: I started coding with Pascal programming language :)<br><br>➡️ There are 1️⃣0️⃣ types of people:<br>those who know binary and those who do not!<br><br>➡️ Developing an algorithm > Writing code<br>
 
 
 ## 🌐 Socials:
@@ -27,5 +27,3 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/halilbugday) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
