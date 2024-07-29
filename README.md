@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 I’m currently working on my startup project.<br>🙊 These days I have become interested in cyber security.<br>🤝 To improve myself, always moving forward.<br>🌱 I'm currently creating AI-supported defense mechanism.<br>👨🏻‍🎓 currently a final year computer engineering student.<br>💬 contact: halilbugday03@gmail.com<br>🤝 To improve myself, always moving forward.<br>⚡ Fun fact: I started coding with Pascal programming language :)<br><br>- There are 1️⃣0️⃣ types of people:<br>those who know binary and those who do not!<br><br>- Developing an algorithm > Writing code<br>
+🤓 I’m currently working on my startup project.<br>🙊 These days I have become interested in artificial intelligence.<br>🤝 To improve myself, always moving forward.<br>🌱 I'm currently creating AI-supported defense mechanism.<br>👨🏻‍🎓 Just graduated from computer engineering department, master's degree in electrical and electronics.<br>💬 contact: halilbugday03@gmail.com<br>🤝 To improve myself, always moving forward.<br>⚡ Fun fact: I started coding with Pascal programming language :)<br><br>➡️ There are 1️⃣0️⃣ types of people:<br>those who know binary and those who do not!<br><br>➡️ Developing an algorithm > Writing code<br>
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HalilBugday&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HalilBugday&icon=9&color=0)](https://visitcount.itsvg.in)
